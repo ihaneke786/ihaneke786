@@ -11,6 +11,3 @@ Interested in systems programming, backend engineering, and data science.
 
 ### 💻 Tech
 C++, C, Python, SQL • Linux/Unix • Git
-
-### 📫 Connect
-- LinkedIn: https://linkedin.com/in/Ian-Haneke
